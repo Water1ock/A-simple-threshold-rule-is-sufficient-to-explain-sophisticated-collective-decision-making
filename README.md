@@ -1,6 +1,6 @@
 # A Simple Threshold Rule is Sufficient to Explain Sophisticated Collective Decision Making
 
-This repository contains a re-implementation of [Robinson et. al (2011)]([url](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019981)). 
+This repository contains a re-implementation of [Robinson et al. (2011)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0019981).
 
 ## Project Objective
 The main objective of this project is to recreate the results of observed ants in their choice of a new nest selection via simulations. 
